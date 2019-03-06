@@ -1,0 +1,157 @@
+;
+;   Greenwich's Roleplaying Alias Kit
+;
+;   These aliases can be added to your Meridian.INI file to build
+;   a rich set of roleplaying verbs.
+;
+;   If you don't have a [CommandAliases] section, you can just cut
+;   and past this whole file to the end of your Meridian.INI.
+;   If you do, then just copy everything below the [CommandAliases]
+;   line here, and paste it into your [CommandAliases] section.
+;
+;   When playing Meridian, you can type the command:
+;      babble
+;   and it acts as if you had typed:
+;      e babbles.
+;
+;   You can also edit these while playing by using the CMDALIAS
+;   command, or pulling "Options, Command Aliases" up on the menu.
+;
+
+[CommandAliases]
+afk=e is not paying attention.
+aha=e lights up with an idea!
+
+babble=e babbles.
+back=e is back.
+bat=e 's eyelashes flutter coyly.
+belch=e belches.
+blank=e gets a blank look in the eyes.
+blink=e blinks.
+blush=e blushes.
+boggle=e boggles.
+burp=e burps.
+
+cackle=e cackles!
+chin=e scratches under the chin.
+choke=e chokes.
+chortle=e chortles.
+chuckle=e chuckles.
+close=e 's eyes close.
+cocks=e 's head cocks to the side.
+comply=e complies.
+cough=e coughs.
+cross=e 's eyes cross.
+cry=e cries.
+
+down=e looks down.
+duck=e ducks.
+
+ear=e rubs an ear.
+ears=e 's ears wiggle.
+
+faint=e nearly faints.
+fidget=e fidgets.
+frown=e frowns.
+furrow=e 's brow furrows.
+
+gaze=e gazes about the area.
+giggle=e giggles.
+grimace=e grimaces.
+grin=e grins.
+groan=e groans.
+growl=e growls.
+grumble=e grumbles.
+grunt=e makes a grunting noise.
+guffaw=e lets out a guffaw.
+gulp=e gulps.
+
+hang=e 's head hangs.
+headshake=e 's head shakes back and forth.
+hiccup=e hiccups.
+humm=e humms quietly.
+
+innocent=e whistles innocently.
+
+jiggle=e jiggles.
+
+laugh=e laughs.
+lips=e puts a finger to the lips.
+listen=e listens carefully.
+lol=e laughs out loud!
+
+mumble=e mumbles something incoherent.
+murmur=e murmurs something softly.
+muse=e muses.
+mutter=e mutters.
+
+nod=e nods.
+
+open=e 's eyes open.
+
+paces=e paces.
+peek=e peeks.
+perk=e perks up.
+ponder=e ponders.
+pout=e pouts.
+pucker=e 's lips pucker.
+purse=e 's lips purse together.
+
+raise=e raises an eyebrow.
+rem=e 's eyes move around under the eyelids.
+roll=e 's eyes roll.
+
+scowl=e scowls.
+scratch=e scratches.
+scream=e screams!
+shriek=e shrieks!
+shrug=e shrugs.
+shy=e seems a bit shy.
+sigh=e sighs.
+slouch=e slouches.
+sly=e gets a sly look.
+smile=e smiles.
+smirk=e smirks.
+smooch=e makes smooching noises.
+snarl=e snarls.
+sneezes=e sneezes!
+snicker=e snickers.
+sniffle=e sniffles.
+snore=e snores.
+snort=e lets out a snort.
+sob=e sobs.
+sputter=e sputters.
+squint=e squints.
+startle=e is startled.
+stomp=e stomps around.
+stretch=e stretches.
+strut=e struts about.
+sulk=e sulks.
+sullen=e gets sullen.
+swallow=e swallows.
+sway=e 's head sways back and forth.
+swoon=e swoons.
+
+tap=e 's foot taps.
+tear=e tears up.
+teeth=e licks the teeth.
+time=e checks the time.
+titter=e titters.
+tremble=e trembles.
+typo=e can't speak straight today.
+
+up=e looks up.
+upturn=e 's nose turns upward.
+
+waggle=e waggles.
+wait=e appears to be waiting.
+weep=e weeps.
+whistle=e whistles.
+wiggle=e wiggles.
+wild=e gets a wild look in the eyes.
+wince=e 's face twists up in pain.
+wink=e winks.
+
+yawn=e yawns.
+
+zzz=e seems to fall asleep.

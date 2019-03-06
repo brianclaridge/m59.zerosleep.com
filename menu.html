@@ -1,0 +1,91 @@
+<html>
+<head>
+	<title>The Meridian 59 Bible: (menu1)</title>
+
+<script language="JavaScript">
+<!-- 
+
+function menuGo(form) {
+	var i = form.choice.selectedIndex;
+	var p = parent.location.href;
+	var s = form.choice.options[i].value;
+	if (s.indexOf("http") > -1) {
+		var u = s.substring(0, s.indexOf(","));
+	}
+	else {
+		var u = p.substring(0, (p.lastIndexOf("/") + 1)) + s.substring(0, s.indexOf(","));
+	}
+	var l = s.substring((s.indexOf(",") + 1), (s.length));
+
+	if (s == "n") {
+		menuReset(form);
+		return;
+	}
+	if (l == "_top") { top.location.href = u; }
+	else if (l == "_blank") { window.open(u); }
+	else if (l == "_self") { self.location.href = u; }
+	else	{ parent.frames[l].location.href = u; }
+
+	menuReset(form);
+}
+
+function menuReset(form) {
+	form.choice.selectedIndex = 0;
+}
+
+//-->
+</script>
+
+</head>
+<body bgcolor="#000000" text="#FFFFFF" link="#00FF00" vlink="#00FF00" alink="#00FF00" background="graphics/background_old3do.gif" onload="menuReset(document.menu);">
+
+<form name="menu" onChange="menuGo(this.form); return false">
+
+<center><a href="index.html" target="_top"><img src="graphics/bible_logo1.gif" width=176 height=56 border=0 alt="The Meridian 59 Bible"></a><br><img src="graphics/trans.gif" width=2 height=5 border=0><br>
+<select name="choice" onChange="menuGo(this.form); return false">
+	<option value="n"> &nbsp; Meridian 59 Bible Menu &nbsp;&nbsp;
+	<option value="n"> &nbsp;&nbsp;------------------------------------
+	<option value="whatsnew.html,main"> &nbsp;&nbsp; &#187; &nbsp;  Site News &nbsp;&nbsp;
+	<option value="credits.html,main"> &nbsp;&nbsp; &#187; &nbsp;  Site Credits & Thanks &nbsp;&nbsp;
+	<option value="n"> &nbsp;&nbsp;------------------------------------
+	<option value="creatures/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Creatures &nbsp;&nbsp;
+	<option value="npc/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  NPC's & Cities &nbsp;&nbsp;
+	<option value="maps/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Maps &nbsp;&nbsp;
+	<option value="n"> &nbsp;&nbsp;------------------------------------
+	<option value="weapons_wands/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Weapons & Wands &nbsp;&nbsp;
+	<option value="wands/index.html,main"> &nbsp;&nbsp; &#187; &nbsp; Wand List &nbsp;&nbsp;
+	<option value="armor_wearables/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Armor & Wearables &nbsp;&nbsp;
+	<option value="edibles_potions/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Edibles & Potions &nbsp;&nbsp;
+	<option value="reagents/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Spell Reagents &nbsp;&nbsp;
+	<option value="misc/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Misc. Items &nbsp;&nbsp;
+	<option value="n"> &nbsp;&nbsp;------------------------------------
+	<option value="weaponcraft/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Weaponcraft &nbsp;&nbsp;
+	<option value="shal_ille/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Shal'ille &nbsp;&nbsp;
+	<option value="qor/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Qor &nbsp;&nbsp;
+	<option value="kraanan/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Kraanan &nbsp;&nbsp;
+	<option value="faren/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Faren &nbsp;&nbsp;
+	<option value="riija/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Riija &nbsp;&nbsp;
+	<option value="jala/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Jala &nbsp;&nbsp;
+	<option value="dmspells/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  DM Spells &nbsp;&nbsp;
+	<option value="n"> &nbsp;&nbsp;------------------------------------
+	<option value="mana_nodes/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Mana Nodes &nbsp;&nbsp;
+	<option value="tokens/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Tokens & Factions &nbsp;&nbsp;
+	<option value="history/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Meridian History &nbsp;&nbsp;
+	<option value="n"> &nbsp;&nbsp;------------------------------------
+	<option value="newbie_help/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Newbie Help &nbsp;&nbsp;
+	<option value="stats_character/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Character Creation &nbsp;&nbsp;
+	<option value="faqs/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  FAQs & Tips &nbsp;&nbsp;
+	<option value="stories_humor/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Stories & Humor &nbsp;&nbsp;
+	<option value="n"> &nbsp;&nbsp;------------------------------------
+	<option value="screenshots/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  Screenshots &nbsp;&nbsp;
+	<option value="irlpics/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  IRL Pictures &nbsp;&nbsp;
+	<option value="irlevents/index.html,menu2"> &nbsp;&nbsp; &#187; &nbsp;  IRL Events &nbsp;&nbsp;
+	<option value="other/spread_eagle/index.html,main"> &nbsp;&nbsp; &#187; &nbsp;  Spread Eagle (102) &nbsp;&nbsp;
+	<option value="links.html,main"> &nbsp;&nbsp; &#187; &nbsp;  Links &nbsp;&nbsp;
+	<option value="files/index.html,main"> &nbsp;&nbsp; &#187; &nbsp;  Files &nbsp;&nbsp;
+	<option value="n"> &nbsp;&nbsp;------------------------------------
+</select><br>
+</center>
+</form>
+
+</body></html>

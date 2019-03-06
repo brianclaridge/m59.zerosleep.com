@@ -1,0 +1,231 @@
+                 Meridian59: Dark Auspices
+                 -------------------------
+
+New Areas
+---------
+Goad's Arena -
+  1 screen south of Decaying city of Brax
+  EXACTLY opposite of Kraanan Arena
+    you take REAL death, but keep AO3/SOTH's.
+    Currently bugged to hell, both people have been dieing, and 
+    tp'd back to die multiple times.
+    also, currently(not sure if it'll change) you WILL turn red, and spawn
+      a revenant.
+    also, if you log or rescue from being IN the arena, Goad will
+    kill you!  So don't play it if you're lagged!
+      he'll say something like "cowards shall parish beneath me!"
+    Who is Goad?  he was a necromancer that turned on the Queen, so she 
+      punished him in this way.
+
+
+Muggy room(can't remember name of it) - 
+  entrance at The Hive in the jungle, looks like a cave entrance.
+  purpose unknown
+  Shrine present
+  random items appear over a steam vent, but can't pick them up?
+  Random Items seem to be the type of items that appear in Pacal's
+    inventory.  Perhaps those items have to be held to activate
+    shrine? - actually, i've tried this approach to no avail.
+
+ROOMS - Morrigan(Marion) and Pritchett(barloque)
+  go to those 2, and say "RENT ROOM".
+  go to a door in back of store and USE the key.  In the room, 
+  ring the bell on the wall.
+  customize the room to look how YOU want it to, but it costs.
+
+Changed Areas
+-------------
+Deep woods of Farol -
+  told there is a shrine there ??(over on the eastern border)
+  when i last saw it, no shrine was visible, now the area is bugged.
+
+Badlands #2 -
+  follow the pillars to jump around to the upper cliffs.
+  multiple Bramble Walls appear and regrow back over time.
+  Apple appears where Tendrath usually appears. reappears about 30 seconds after you grab one.
+  unknown if Tendrath still moves there.
+  there is a small square raised platform up where massive bramble is.
+    unknown purpose for the platform, nothing on it in beta.
+  Note: GREAT place to work touch spells with bramble regrowing.
+
+Brog's Antechamber -
+  passage to the orcpit boss
+  it's not as easy to do now, in fact, nobody knows how to now.
+
+Mocker's chamber -
+  um, no idea, but for some reason, it's LOCKED ???
+
+New Skills
+----------
+Disarm - level 5
+  just what it says, running up to person makes them de-equip
+    weapon, chance they DROP the weapon.
+  Currently, you can even do this in shops, but supposed to only
+    be done outside by release.
+  - sold by Cylill
+
+Second Wind - level 4
+	told that it's kinda like having a SOTH/AO3 to 
+        recuperate vigor - sold by Drechx
+        also told that it recuperates vigor when you reach 'LOW' vigor.
+
+
+
+New Spells
+----------
+Faren- Ring of Fire(4) - Miriana
+  creates a ring of fire around the caster, does minimal damage,
+    but drains the HELL out of vigor, like when you walk into a
+    guild hall.
+
+Faren- Mystic Touch(1) - Priestess
+  transfers mana from caster to target
+
+Jala- Distill(3) - Lady Aftyn
+  for creating spell potions
+  reagents are about 8-12 TIMES the normal regs used for the spell which
+    you are creating a potion for; purify would use about 12 Emeralds,
+    maybe more
+  you SAY "<name of spell potion>", then cast the distill spell.
+
+Shallile- Dazzle(3) - unknown
+  like Blind, but looks like an elongated version of FLASH.
+  creates a white flash, can't see anything.
+
+Kraanan- Relay(1) - priestess
+  transfers vigor from caster to target, or vice versa.  amount of
+  vigor is unpredictable.
+
+Kraanan- Eagle Eyes(4) - priestess
+  Cuts down the time of Blind and Dazzle.
+  Description reads that it helps with "Ranged attacks"
+
+Kraanan- Silence(5) - Miriana
+  unknown, nobody has it yet.
+    - woops, someone got it, but it was bugged.  Apparently, makes casting
+      spells impossible(i guess about like Spellbane), and no communications
+      are allowed.  I believe it uses DAFs.
+
+*** There may be more that just were never discovered, we had 2 complete
+    character wipes due to gamesave file corruptions.  Advancement of
+    characters were never re-established with potions, we had to rebuild
+    each time.
+
+Factions - oh boy....
+---------
+Duke now gets:
+  A bonus to-hit, cheaper prices when buying things, a bonus to mana 
+  regeneration, and faster learning of Riija/Jala spells.
+
+Princess now get:
+  A bonus to spellpower (spells have a better effect), a bonus 
+  to defense, and faster learning of Faren/Qor/Shal'ille spells.
+
+  Rebels now get: A bonus to damage, a bonus to hp regeneration, 
+  and faster learning of Weaponcraft skills and Kraanan spells.
+
+  Rebel faction:
+  Leader: Jonas.  Jonas is PERMANENTLY in Pietros, no longer moves.
+  Home of Rebel faction is Jasper.
+  Revive vigor at 4 points per "ping" in pietros, not sure if you
+  have to be a rebel.
+
+The calculation of what level your faction bonus are at has changed now.
+There are two parts to the calculation: power (accumulated from returning
+tokens and from taking flags and territory), and number of members.  As a 
+faction's power increases, your benefits will increase accordingly.
+However, as your membership grows, your liege will have less time to 
+dedicate to teaching each individual the bonuses, so they will decrease.
+
+To find out relative number of followers, ask your liege "Tell me about 
+your members."  This should let you know how many members there are.
+
+Also note that the unfactioned are considered a faction.  You can return 
+tokens to make counselors follow the guidance of Shal'ille and you can rip 
+flags from poles in defiance to the power structure.  You will get roughly 
+one fourth the benefits of a faction of equal power.  So, unfactioned 
+people will get a wider variety of powers, but at a much lower level.
+
+NOTE: princess no longer gets "to hit" bonus, and Duke no longer
+      gets "damage" bonus, those have moved to other factions;
+      read carefully!
+
+Monsters -
+--------
+  well, only 1 new type, no idea where they live.  they're not "IN"
+  the game anywhere yet, but they managed to kill the 2 programmers!
+
+Te'Xeochactl - Orange - Very sluggish moving
+Ma'Xeochactl - Blue - VERY fast moving
+Ra'Xeochactl - Red  - Unsure
+
+  They pretty much look alike, except different colored bodies.
+  Difference is speed and difficulty to kill.  one is fast, but weak
+  and vice versa...
+  Hit hard, cast hold, enfeeble, shatter, firewall, poison fog, ..
+  i know there's more they cast, just can't remember.
+  They're currently not allowed in game since they cast WAY too many
+  firewalls and lag the area.
+  OH, and they DRAIN your mana about like how Revanents drain vigor.
+  not sure about this, but possible way to easily kill them is to feeb them,
+    then have a qor master with SILENCE cast it, so the Xeo's can't cast???
+
+Stats -
+-------
+Stamina - now determines level advancement of Kraanan and WC.
+Int - now only for jala, and riija.
+Myst - now only Shallile, qor, and faren.
+Aim - those who have HIGH(like 45 and up) get an ADDED advantage,
+      those in the mid-range will hit about normal, those under,
+      well, take a wild guess.
+
+Note: the stats determine what total(of 3) %'s are needed for your next
+level, NOT how many total school's can be learned - THAT is determined still
+by Intellect.
+
+Special notes -
+------------
+Auspices is french for OMEN.. so the update is "Dark Omen"
+Marion is totally redone.
+Queen Groundworms appear in Martyr's Battleground now.
+PUNCH- now uses LESS vigor, and hits ALOT harder.
+Any rumor you heard about bows getting delayed are bogus!
+Magic wands now have a delay timer placed on them.(about 4 seconds)
+Right clicking on the Sun now gives Dazzle effect, not blind.
+Jala's Distill spell will be a nice alternative to those who are qor and want
+ to be able to cure themselves of sickness's from fighting(or curses).
+If you go to the meridian website and look at the Herald, there's
+ some strange looking potions on the left side.  Those are what
+ the potions look like in the update that are created by Distill.
+
+Some special excerpts straight from the developers
+--------------------------------------------------
+Knowing lots of spells will NOT harm your ability to learn more spells.  
+Basically, knowing three level one spells in a school is the same as 
+knowing six spells in that same level/school.  This will allow older 
+characters to go back in and pick up some of the "new" spells their maxxed
+out characters couldn't get before.
+
+Since you are here to find bugs, we won't be giving out storylines on Beta.
+You'll just have to wait to find out if anyone dies in this next update, or
+why there seem to be no Xeochicatl wandering around in the lands, etc.
+Don't even ask, it'll waste both our time.
+
+--------------
+If this letter is received before the release, i'd suggest doing the following:
+
+get all the spells you can now that you skipped due to skipping to help with
+advancement, stat changes may make your development come to a halt and not
+get any new spells.
+
+start collecting some orc shields from the orcpit boss, since getting there is
+a miracle of itself.
+
+lose faction membership.  i believe everyone will be switching to jonas.
+  Furthermore: make sure you have some mystics, plate, and other WC items.
+  so far, i've seen Plate, gauntlets, and mystic be requested by Jonas to
+  join his faction.
+
+As a side note of Jonas: i finally got to see him 5 fully dedicated, and I
+ received all 3 bonus': faster HP recuperation, learning bonus of kraanan/WC,
+ and damage bonus... it was VERY sweet!
